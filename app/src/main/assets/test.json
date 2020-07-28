@@ -1,0 +1,95 @@
+{
+  "TestData": [
+    {
+      "id": 1,
+      "name": "Paradise (720p)",
+      "payment_plan": "Pro",
+      "release_year": 2017,
+      "video_duration": "4.44",
+      "type": "Movie",
+      "created_on": "2020-03-20T07:35:26.271485Z",
+      "updated_on": "2020-03-20T07:35:26.271493Z",
+      "posterLink": "TestImage.tif",
+      "shortDescription": "The film is built around the intertwining destinies of three characters",
+      "description": "The film is built around the intertwining destinies of three main characters during the Second World War. Olga is arrested for hiding Jewish children from the Nazi roundups. Her case is overseen by Jules. He is interested in her and it seems that in exchange for sexual relations he is ready to soften the fate of the prisoner, but this does not happen. A chimeric hope of freedom is replaced by cruel reality – Olga lands in a German concentration camp."
+    },
+    {
+      "id": 2,
+      "name": "Parasite",
+      "payment_plan": "Free",
+      "release_year": 2019,
+      "video_duration": "10.02",
+      "type": "Movie",
+      "created_on": "2019-05-20T09:31:26.271485Z",
+      "updated_on": "2019-05-20T09:32:26.271493Z",
+      "posterLink": "TestImage1.tif",
+      "shortDescription": "",
+      "description": "Parasite is a 2019 South Korean black comedy thriller film directed by Bong Joon-ho, who also co-wrote the screenplay with Han Jin-won. It stars Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, Choi Woo-shik, Park So-dam, Jang Hye-jin, and Lee Jung-eun and follows the members of a poor family who scheme to become employed by a wealthy family by infiltrating their household and posing as unrelated, highly qualified individuals. Parasite premiered at the 2019 Cannes Film Festival on 21 May 2019, where it became the first South Korean film to win the Palme d'Or. It was then released in South Korea by CJ Entertainment on 30 May 2019."
+    },
+    {
+      "id": 3,
+      "name": "Friends",
+      "payment_plan": "Pro",
+      "release_year": 2012,
+      "video_duration": "12.30",
+      "type": "TV Series",
+      "created_on": "",
+      "updated_on": "",
+      "posterLink": "TestImage2.tif",
+      "shortDescription": "",
+      "description": "American tv series"
+    },
+    {
+      "id": 4,
+      "name": "Sherlock",
+      "payment_plan": "",
+      "release_year": 2008,
+      "video_duration": "",
+      "type": "TV Series",
+      "created_on": "",
+      "updated_on": "",
+      "posterLink": "TestImage3.tif",
+      "shortDescription": "Sherlock is a British crime television series based on Sir Arthur Conan Doyle's Sherlock Holmes detective stories. Created by Steven Moffat and Mark Gatiss, it stars Benedict Cumberbatch as Sherlock Holmes and Martin Freeman as Doctor John Watson",
+      "description": "Sherlock is a British crime television series based on Sir Arthur Conan Doyle's Sherlock Holmes detective stories. Created by Steven Moffat and Mark Gatiss, it stars Benedict Cumberbatch as Sherlock Holmes and Martin Freeman as Doctor John Watson. 13 episodes have been produced, with four three-part series airing from 2010 to 2017, and a special episode that aired on 1 January 2016. The series is set in the present day, while the one-off special features a Victorian period fantasy resembling the original Holmes stories. Sherlock is produced by the British network BBC, along with Hartswood Films, with Moffat, Gatiss, Sue Vertue and Rebecca Eaton serving as executive producers. The series is supported by the American station WGBH-TV Boston for its Masterpiece anthology series on PBS, where it also airs in the United States"
+    },
+    {
+      "id": 5,
+      "name": "Game Of Thrones",
+      "payment_plan": "",
+      "release_year": 2008,
+      "video_duration": "",
+      "type": "",
+      "created_on": "",
+      "updated_on": "",
+      "posterLink": "TestImage4.tif",
+      "shortDescription": "",
+      "description": ""
+    },
+    {
+      "id": 6,
+      "name": "Genius",
+      "payment_plan": "",
+      "release_year": 2010,
+      "video_duration": "",
+      "type": "",
+      "created_on": "2010-09-10T01:20:09.171525Z",
+      "updated_on": "",
+      "posterLink": "TestImage1.tif",
+      "shortDescription": "Genius is an American anthology period drama television series developed by Noah Pink and Kenneth Biller which premiered on April 25, 2017 on National Geographic.",
+      "description": ""
+    },
+    {
+      "id": 7,
+      "name": "Big Bang Theory TV Series",
+      "payment_plan": "Pro",
+      "release_year": 2012,
+      "video_duration": "12.30",
+      "type": "TV Series",
+      "created_on": "",
+      "updated_on": "2012-01-15T03:15:16.171526Z",
+      "posterLink": "TestImage1.tif",
+      "shortDescription": "",
+      "description": "Big Bang Theory is an American television sitcom created by Chuck Lorre and Bill Prady, both of whom served as executive producers on the series, along with Steven Molaro. All three also served as head writers. The show premiered on CBS on September 24, 2007 and concluded on May 16, 2019, having broadcast a total of 279 episodes over 12 seasons"
+    }
+  ]
+}
